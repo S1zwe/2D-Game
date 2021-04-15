@@ -1,2 +1,2 @@
 # 2D-Game
-2019 CSC2A 2D-Game project using an animation timer
+2019  2D-Game using an animation timer
